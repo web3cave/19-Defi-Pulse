@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Twitter @DeFi Pulse",
-      "feedUrl": "https://rsshub.app/twitter/user/defipulse",
-      "siteUrl": "https://x.com/defipulse",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
